@@ -1,2 +1,4 @@
 def call(name){
-  echo "Hi,${vani,welcome}
+   echo "Hi,${name,welcome}
+}
+ 
